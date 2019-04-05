@@ -88,7 +88,7 @@
 
     <cxf.version>3.1.9</cxf.version>
 
-    <activemq.version>5.10.1</activemq.version>
+    <activemq.version>5.15.9</activemq.version>
 
     <jacoco-maven-plugin.version>0.8.1</jacoco-maven-plugin.version>
     <maven-clean-plugin.version>3.1.0</maven-clean-plugin.version>
